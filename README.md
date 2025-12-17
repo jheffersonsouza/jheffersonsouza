@@ -7,6 +7,10 @@ Under graduation in System Analysis and Development at Federal University of Cea
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 
+### Currently learning:
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
+<br>[Hono Framework](https://hono.dev/) and [Drizzle ORM](https://orm.drizzle.team/)
+
 ### Frameworks I worked with:
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
@@ -14,6 +18,7 @@ Under graduation in System Analysis and Development at Federal University of Cea
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
 <br>[Fastify](https://fastify.dev/)
+
 ### Package manager/runtime
 [![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
@@ -28,11 +33,7 @@ Under graduation in System Analysis and Development at Federal University of Cea
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
-### Currently learning:
-[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
-<br>[Hono Framework](https://hono.dev/) and [Drizzle ORM](https://orm.drizzle.team/)
-
-### Interested in
+### Also interested in
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
