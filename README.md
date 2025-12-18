@@ -1,4 +1,5 @@
-Under graduation in System Analysis and Development at Federal University of Ceará.
+Under graduation in System Analysis and Development at Federal University of Ceará.<br>
+Exeperience in R&D, focused on backend and developing solutions integrated at GitHub environment.
 <br>
 
 ### Languages
