@@ -38,3 +38,4 @@ Exeperience in R&D, focused on backend and developing solutions integrated at Gi
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![Flysia](https://skillicons.dev/icons?i=elysia)](https://elysiajs.com/)
