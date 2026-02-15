@@ -3,41 +3,41 @@ Exeperience in R&D, focused on backend and developing solutions integrated at Gi
 <br>
 
 ### Languages
-[![Java](https://skillicons.dev/icons?i=java)](https://dev.java/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[<img src="assets/java.svg" width="48" height="48" alt="Java" />](https://dev.java/)
+[<img src="assets/javascript.svg" width="48" height="48" alt="JavaScript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="assets/typescript.svg" width="48" height="48" alt="TypeScript" />](https://www.typescriptlang.org/)
+[<img src="assets/python.svg" width="48" height="48" alt="Python" />](https://www.python.org/)
 
 ### Currently learning:
-[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
-[<img width="48" height="48" alt="drizzle_orm" src="https://github.com/user-attachments/assets/72d940ad-575b-4e90-bd7e-2bb18188b5f4"/>](https://orm.drizzle.team/)
-[<img width="48" height="48" alt="hono" src="https://github.com/user-attachments/assets/4cbb8645-00ce-4ed0-a7fc-e17c8fe4ba65"/>](https://hono.dev/)
+[<img src="assets/go.svg" width="48" height="48" alt="Go" />](https://go.dev/)
+[<img src="assets/drizzle.svg" width="48" height="48" alt="Drizzle ORM" />](https://orm.drizzle.team/)
+[<img src="assets/hono.svg" width="48" height="48" alt="Hono" />](https://hono.dev/)
 
 
 ### Frameworks I worked with:
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
-<br>[Fastify](https://fastify.dev/)
+[<img src="assets/express.svg" width="48" height="48" alt="Express" />](https://expressjs.com/)
+[<img src="assets/spring.svg" width="48" height="48" alt="Spring" />](https://spring.io/)
+[<img src="assets/react.svg" width="48" height="48" alt="React" />](https://react.dev/)
+[<img src="assets/tensorflow.svg" width="48" height="48" alt="TensorFlow" />](https://www.tensorflow.org/)
+[<img src="assets/pytorch.svg" width="48" height="48" alt="PyTorch" />](https://pytorch.org/)
+[<img src="assets/fastify.svg" width="48" height="48" alt="Fastify" />](https://fastify.dev/)
 
 ### Package manager/runtime
-[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh/)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[<img src="assets/bun.svg" width="48" height="48" alt="Bun" />](https://bun.sh/)
+[<img src="assets/nodejs.svg" width="48" height="48" alt="NodeJS" />](https://nodejs.org/)
 
 ### Database & DBMS:
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
+[<img src="assets/postgresql.svg" width="48" height="48" alt="PostgreSQL" />](https://www.postgresql.org/)
+[<img src="assets/sqlite.svg" width="48" height="48" alt="SQLite" />](https://www.sqlite.org/)
+[<img src="assets/mongodb.svg" width="48" height="48" alt="MongoDB" />](https://www.mongodb.com/)
+[<img src="assets/redis.svg" width="48" height="48" alt="Redis" />](https://redis.io/)
 
 ### Tools
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[<img src="assets/git.svg" width="48" height="48" alt="Git" />](https://git-scm.com/)
+[<img src="assets/docker.svg" width="48" height="48" alt="Docker" />](https://www.docker.com/)
 
 ### Also interested in
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
-[![Flysia](https://skillicons.dev/icons?i=elysia)](https://elysiajs.com/)
+[<img src="assets/rust.svg" width="48" height="48" alt="Rust" />](https://www.rust-lang.org/)
+[<img src="assets/supabase.svg" width="48" height="48" alt="Supabase" />](https://supabase.com/)
+[<img src="assets/flutter.svg" width="48" height="48" alt="Flutter" />](https://flutter.dev/)
+[<img src="assets/elysia.svg" width="48" height="48" alt="Elysia" />](https://elysiajs.com/)
