@@ -92,7 +92,7 @@ Exeperience in R&D, focused on backend and developing solutions integrated at Gi
   </picture>
 </a>
 
-### Database & DBMS:
+### Databases:
 <a href="https://www.postgresql.org/">
   <picture>
     <img alt="PostgreSQL" src="assets/postgresql.svg" width="48" height="48">
