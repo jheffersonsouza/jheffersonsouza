@@ -1,151 +1,76 @@
-Under graduation in System Analysis and Development at Federal University of Ceará.<br>
-Exeperience in R&D, focused on backend and developing solutions integrated at GitHub environment.
-<br>
+Systems Analysis and Development student at the Federal University of Ceará — primarily focused on research and development, with experience in backend engineering and building solutions integrated within the GitHub ecosystem.
+
+---
+
+## Stack
 
 ### Languages
-<a href="https://dev.java/">
-  <picture>
-    <img alt="Java" src="assets/java.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <picture>
-    <img alt="JavaScript" src="assets/javascript.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://www.typescriptlang.org/">
-  <picture>
-    <img alt="TypeScript" src="assets/typescript.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://www.python.org/">
-  <picture>
-    <img alt="Python" src="assets/python.svg" width="48" height="48">
-  </picture>
-</a>
+<p>
+  <a href="https://dev.java/"><img alt="Java" src="assets/java.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="assets/javascript.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="assets/typescript.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://www.python.org/"><img alt="Python" src="assets/python.svg" width="28" height="28" /></a>
+</p>
 
-### Currently learning:
-<a href="https://go.dev/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/go_dark.svg">
-    <img alt="Go" src="assets/go.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://orm.drizzle.team/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/drizzle_dark.svg">
-    <img alt="Drizzle ORM" src="assets/drizzle.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://hono.dev/">
-  <picture>
-    <img alt="Hono" src="assets/hono.svg" width="48" height="48">
-  </picture>
-</a>
+### Frameworks
+<p>
+  <a href="https://expressjs.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/express_dark.svg"><img alt="Express" src="assets/express.svg" width="28" height="28" /></picture></a>
+  &nbsp;
+  <a href="https://hono.dev/"><img alt="Hono" src="assets/hono.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://spring.io/"><img alt="Spring" src="assets/spring.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://react.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/react_dark.svg"><img alt="React" src="assets/react.svg" width="28" height="28" /></picture></a>
+  &nbsp;
+  <a href="https://www.tensorflow.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tensorflow_dark.svg"><img alt="TensorFlow" src="assets/tensorflow.svg" width="28" height="28" /></picture></a>
+  &nbsp;
+  <a href="https://pytorch.org/"><img alt="PyTorch" src="assets/pytorch.svg" width="28" height="28" /></a>
+</p>
 
+### Databases
+<p>
+  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="assets/postgresql.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://www.sqlite.org/"><img alt="SQLite" src="assets/sqlite.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://www.mongodb.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mongodb_dark.svg"><img alt="MongoDB" src="assets/mongodb.svg" width="28" height="28" /></picture></a>
+  &nbsp;
+  <a href="https://redis.io/"><img alt="Redis" src="assets/redis.svg" width="28" height="28" /></a>
+</p>
 
-### Frameworks I worked with:
-<a href="https://expressjs.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/express_dark.svg">
-    <img alt="Express" src="assets/express.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://spring.io/">
-  <picture>
-    <img alt="Spring" src="assets/spring.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://react.dev/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/react_dark.svg">
-    <img alt="React" src="assets/react.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://www.tensorflow.org/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tensorflow_dark.svg">
-    <img alt="TensorFlow" src="assets/tensorflow.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://pytorch.org/">
-  <picture>
-    <img alt="PyTorch" src="assets/pytorch.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://fastify.dev/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/fastify_dark.svg">
-    <img alt="Fastify" src="assets/fastify.svg" width="48" height="48">
-  </picture>
-</a>
-
-### Package manager/runtime
-<a href="https://bun.sh/">
-  <picture>
-    <img alt="Bun" src="assets/bun.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://nodejs.org/">
-  <picture>
-    <img alt="NodeJS" src="assets/nodejs.svg" width="48" height="48">
-  </picture>
-</a>
-
-### Databases:
-<a href="https://www.postgresql.org/">
-  <picture>
-    <img alt="PostgreSQL" src="assets/postgresql.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://www.sqlite.org/">
-  <picture>
-    <img alt="SQLite" src="assets/sqlite.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://www.mongodb.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/mongodb_dark.svg">
-    <img alt="MongoDB" src="assets/mongodb.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://redis.io/">
-  <picture>
-    <img alt="Redis" src="assets/redis.svg" width="48" height="48">
-  </picture>
-</a>
+### Runtimes & Package Managers
+<p>
+  <a href="https://nodejs.org/"><img alt="Node.js" src="assets/nodejs.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://bun.sh/"><img alt="Bun" src="assets/bun.svg" width="28" height="28" /></a>
+</p>
 
 ### Tools
-<a href="https://git-scm.com/">
-  <picture>
-    <img alt="Git" src="assets/git.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://www.docker.com/">
-  <picture>
-    <img alt="Docker" src="assets/docker.svg" width="48" height="48">
-  </picture>
-</a>
+<p>
+  <a href="https://git-scm.com/"><img alt="Git" src="assets/git.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://www.docker.com/"><img alt="Docker" src="assets/docker.svg" width="28" height="28" /></a>
+</p>
 
-### Also interested in
-<a href="https://www.rust-lang.org/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/rust_dark.svg">
-    <img alt="Rust" src="assets/rust.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://supabase.com/">
-  <picture>
-    <img alt="Supabase" src="assets/supabase.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://flutter.dev/">
-  <picture>
-    <img alt="Flutter" src="assets/flutter.svg" width="48" height="48">
-  </picture>
-</a>
-<a href="https://elysiajs.com/">
-  <picture>
-    <img alt="Elysia" src="assets/elysia.svg" width="48" height="48">
-  </picture>
-</a>
+---
+
+## Currently Learning
+<p>
+  <a href="https://go.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/go_dark.svg"><img alt="Go" src="assets/go.svg" width="28" height="28" /></picture></a>
+  &nbsp;
+  <a href="https://orm.drizzle.team/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drizzle_dark.svg"><img alt="Drizzle ORM" src="assets/drizzle.svg" width="28" height="28" /></picture></a>
+  &nbsp;
+  <a href="https://elysiajs.com/"><img alt="Elysia" src="assets/elysia.svg" width="28" height="28" /></a>
+</p>
+
+## Also Interested In
+<p>
+  <a href="https://www.rust-lang.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rust_dark.svg"><img alt="Rust" src="assets/rust.svg" width="28" height="28" /></picture></a>
+  &nbsp;
+  <a href="https://supabase.com/"><img alt="Supabase" src="assets/supabase.svg" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://flutter.dev/"><img alt="Flutter" src="assets/flutter.svg" width="28" height="28" /></a>
+</p>
