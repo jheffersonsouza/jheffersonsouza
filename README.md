@@ -17,8 +17,6 @@ Systems Analysis and Development student at the Federal University of Ceará —
 
 ### Frameworks
 <p>
-  <a href="https://expressjs.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/express_dark.svg"><img alt="Express" src="assets/express.svg" width="28" height="28" /></picture></a>
-  &nbsp;
   <a href="https://hono.dev/"><img alt="Hono" src="assets/hono.svg" width="28" height="28" /></a>
   &nbsp;
   <a href="https://spring.io/"><img alt="Spring" src="assets/spring.svg" width="28" height="28" /></a>
